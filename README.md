@@ -1,4 +1,4 @@
-# Research Report Repository
+# Prisoner’s Dilemma
 
 This repository contains the research report titled "Cooperation vs. Betrayal - Analyzing the Prisoner’s Dilemma."
 
