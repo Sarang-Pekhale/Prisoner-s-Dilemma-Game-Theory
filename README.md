@@ -23,7 +23,7 @@ The repository includes the following:
 To access the full research report, download or clone the repository:
 ```bash
 git clone https://github.com/your-username/research-report.git
-
+```
 Navigate to the Research_Report.pdf file for detailed insights into the study.
 
 ## Contributions
