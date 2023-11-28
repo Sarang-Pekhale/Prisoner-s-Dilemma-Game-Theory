@@ -24,7 +24,7 @@ To access the full research report, download or clone the repository:
 ```bash
 git clone https://github.com/your-username/research-report.git
 ```
-Navigate to the Research_Report.pdf file for detailed insights into the study.
+Navigate to the Prisoner's_Dilemma_Report.pdf file for detailed insights into the study.
 
 ## Contributions
 Contributions to improve the report or additional insights into game theory and its applications are welcome. Please fork the repository, make your changes, and submit a pull request.
